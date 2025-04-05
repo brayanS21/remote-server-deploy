@@ -1,0 +1,1 @@
+Hello! This message confirms that the deployment to the remote server via SSH was successful.
