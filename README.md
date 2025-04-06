@@ -28,4 +28,4 @@ This repository shows how to deploy files to a remote server using SSH and GitHu
 You can also connect manually to check:
 
 ```bash
-ssh -i pemSMacServerEstudiantes ndgserver@191.89.129.146
+ssh -i pemSMacServerEstudiantes ndgserver@201.190.115.29
